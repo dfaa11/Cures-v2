@@ -9,7 +9,7 @@ bot.status({
  
 text: "Cures v2 Beta",
  
-type: "WATCHING",
+type: "COMPETING",
  
 time: 12
  
@@ -19,7 +19,7 @@ bot.status({
  
 text: "help +",
  
-type: "COMPETING",
+type: "WATCHING",
  
 time: 12
  
